@@ -3,7 +3,7 @@
 - 🌱 Learning HTML, CSS, JavaScript, Java and Python
 - 📫 How to reach me: carolina.mscastro@gmail.com
 
-<div align="center">
+<div align="display: inline_block">
   <a href="https://github.com/carolinamsc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinamsc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinamsc&layout=compact&langs_count=7&theme=dracula"/>

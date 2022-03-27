@@ -1,6 +1,6 @@
 ### Hi there, I'm Carolina Castro 👋
 
-- 🌱 Learning HTML, CSS, JavaScript, Java and Python
+- 🌱 I'm currently learning HTML, CSS, JavaScript. Also interested in Python and Java
 - 📫 How to reach me: carolina.mscastro@gmail.com
 
 <div align="display: inline_block">

@@ -15,7 +15,7 @@
   <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carol-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Carol-pic" height="100" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_Osu1DQBj.png">
+<!--  <img align="right" alt="Carol-pic" height="100" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_Osu1DQBj.png"> -->
 </div>
  
   ###

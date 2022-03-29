@@ -1,4 +1,4 @@
-### Hi there, I'm Carolina Castro 👋
+### Hi there, I'm Carolina Castro 👋👩‍🔬
 
 - 🌱 I'm currently learning HTML, CSS, JavaScript. Also interested in Python and Java
 - 📫 How to reach me: carolina.mscastro@gmail.com

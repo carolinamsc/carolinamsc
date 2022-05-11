@@ -1,7 +1,7 @@
 ### Hi there, I'm Carolina Castro 👋👩‍🔬
 
 - 👩 I'm a pharmacist who's finishing a Master's Degree in Molecular Biology, more specifically working with Synthetic Biology, and in transition to the Technology Area;
-- 🌱 I'm currently learning HTML, CSS, JavaScript and C#. Also interested in Python and Java;
+- 🌱 I'm currently learning HTML, CSS, JavaScript, Java and C#. Also interested in Python and Ruby;
 - 📫 How to reach me: carolina.mscastro@gmail.com
 
 <div align="display: inline_block">
